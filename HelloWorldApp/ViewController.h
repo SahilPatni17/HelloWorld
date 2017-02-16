@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+{
+	UILable *lbl1;
+}
 
 @end
 
